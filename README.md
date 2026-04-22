@@ -101,7 +101,15 @@ npm run preview
 - All code includes meaningful comments for readability.
 - `node_modules` is excluded from the zip (run `npm install` first).
 
+update 1
 
+update 2
+
+update 3
+
+update 4
+
+update 5
 /* update 1 */
 /* update 2 */
 /* update 3 */
